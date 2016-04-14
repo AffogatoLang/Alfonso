@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const
   vorpal = require("vorpal"),
   clifs = require("./local_modules/cli-fs");
