@@ -1,0 +1,26 @@
+{
+  "name": "alfonso",
+  "version": "0.0.1",
+  "preferGlobal": true,
+  "bin": {
+    "alf": "alfonso.js"
+  },
+  "description": "Module management cli environment for Moka",
+  "keywords": [
+    "Moka",
+    "Modules",
+    "Packages",
+    "Automation",
+    "Vorpal",
+    "Alfonso"
+  ],
+  "author": "Louis Capitanchik",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "fs-jetpack": "^0.8.0",
+    "lodash": "^4.11.0",
+    "toml": "^2.3.0",
+    "vorpal": "^1.10.10"
+  }
+}
